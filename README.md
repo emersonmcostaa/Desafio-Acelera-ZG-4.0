@@ -2,6 +2,9 @@
 Repositório com o código do desafio para vaga de Estagio na ZG Soluções
 ##
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/emersonmcostaa/Desafio-Acelera-ZG-4.0/blob/main/LICENSE) 
+##
+
 Seja bem vind@ a etapa de Desafio, aqui queremos ver como você se sai frente a um problema novo. Siga as orientações e poste o resultado no campo indicado. Iremos avaliar o tempo que levou para resolver a questão com base em sua submissão. Então seja o mais rápido que puder. Boa sorte e mãos a obra!  
 
 Olá, Seja bem vind@ a etapa de Desafio.  
@@ -31,3 +34,32 @@ Existe um arquivo chamado [`crendiciais.py`](https://github.com/emersonmcostaa/D
 Criei essa solução para não deixar essas informações pessoais dentro do código principal.
 ##
 
+### Tecnologias utilizadas
+
+- __Python__
+
+   _Módulo_ `requests`
+
+## Como executar o projeto
+
+Pré-requisitos: Python 3.6 ou superior
+
+```bash
+# clonar repositório
+git clone https://github.com/emersonmcostaa/Desafio-Acelera-ZG-4.0
+
+# instalar bibliotecas usadas no projeto
+pip install -r requirements.txt
+
+# executar o projeto
+python main.py
+
+```
+
+## Autor
+
+Emerson Monteiro da Costa
+
+https://github.com/emersonmcostaa
+
+https://www.linkedin.com/in/emersonmcostaa
