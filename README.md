@@ -5,6 +5,7 @@ Repositório com o código do desafio para vaga de Estagio na ZG Soluções
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/emersonmcostaa/Desafio-Acelera-ZG-4.0/blob/main/LICENSE) 
 ##
 
+### Descrição do desafio
 Seja bem vind@ a etapa de Desafio, aqui queremos ver como você se sai frente a um problema novo. Siga as orientações e poste o resultado no campo indicado. Iremos avaliar o tempo que levou para resolver a questão com base em sua submissão. Então seja o mais rápido que puder. Boa sorte e mãos a obra!  
 
 Olá, Seja bem vind@ a etapa de Desafio.  
