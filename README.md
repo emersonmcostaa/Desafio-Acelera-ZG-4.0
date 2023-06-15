@@ -1,7 +1,5 @@
 # Desafio - Acelera ZG 4.0  
-
 Repositório com o código do desafio para vaga de Estagio na ZG Soluções
-
 ##
 
 Seja bem vind@ a etapa de Desafio, aqui queremos ver como você se sai frente a um problema novo. Siga as orientações e poste o resultado no campo indicado. Iremos avaliar o tempo que levou para resolver a questão com base em sua submissão. Então seja o mais rápido que puder. Boa sorte e mãos a obra!  
@@ -22,3 +20,14 @@ Além do código, da pergunta e da resposta a pergunta, você deve descrever qua
 Para cada um desses itens, há um campo definido a seguir.  
 
 Certifique-se de reservar tempo suficiente para fazer o teste. Caso você saia do teste sem finalizá-lo, o teste será considerado como concluído e você não poderá fazer novamente.  
+##
+
+### Output do código:  
+![output_Requisição_api](https://github.com/emersonmcostaa/Desafio-Acelera-ZG-4.0/assets/99415850/69013faf-ced1-47ee-9118-06769d02c68b)
+
+### Importante:
+Existe um arquivo chamado [`crendiciais.py`]() que nele você irá colocar as suas informações, basicamente exitem 3 variaveis dentro dele, que são (nome, email e cpf), o arquivo [`main.py`]() precisa delas pra fazer a requisição na API.  
+  
+Criei essa solução para não deixar essas informações pessoais dentro do código principal.
+##
+
