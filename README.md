@@ -26,7 +26,7 @@ Certifique-se de reservar tempo suficiente para fazer o teste. Caso você saia d
 ![output_Requisição_api](https://github.com/emersonmcostaa/Desafio-Acelera-ZG-4.0/assets/99415850/69013faf-ced1-47ee-9118-06769d02c68b)
 
 ### Importante:
-Existe um arquivo chamado [`crendiciais.py`]() que nele você irá colocar as suas informações, basicamente exitem 3 variaveis dentro dele, que são (nome, email e cpf), o arquivo [`main.py`](https://github.com/emersonmcostaa/Desafio-Acelera-ZG-4.0/blob/main/main.py) precisa delas pra fazer a requisição na API.  
+Existe um arquivo chamado [`crendiciais.py`](https://github.com/emersonmcostaa/Desafio-Acelera-ZG-4.0/blob/main/credenciais.py) que nele você irá colocar as suas informações, basicamente exitem 3 variaveis dentro dele, que são (nome, email e cpf), o arquivo [`main.py`](https://github.com/emersonmcostaa/Desafio-Acelera-ZG-4.0/blob/main/main.py) precisa delas pra fazer a requisição na API.  
   
 Criei essa solução para não deixar essas informações pessoais dentro do código principal.
 ##
