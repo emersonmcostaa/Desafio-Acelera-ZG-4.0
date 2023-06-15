@@ -1,5 +1,5 @@
 # Desafio - Acelera ZG 4.0  
-Repositório com o código do desafio para Estagio na ZG Soluções.
+Repositório com o script do desafio para Estagio na ZG Soluções.
 ##
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/emersonmcostaa/Desafio-Acelera-ZG-4.0/blob/main/LICENSE) 
